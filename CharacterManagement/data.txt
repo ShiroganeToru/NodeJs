@@ -1,0 +1,8 @@
+1,Raiden Shogun,Female,26/06,Polearm,Electro,Inazuma
+2,Ganyu,Female,2/12,Bow,Cryo,Liyue
+3,Sangonomiya Kokomi,Female,22/2,Catalyst,Hydro,Inazuma
+4,Navia,Female,16/8,Claymore,Geo,Fontaine
+5,Furina,Female,13/10,Sword,Hydro,Fontaine
+6,Nahida,Female,27/10,Catalyst,Dendro,Sumeru
+7,Neuvillettee,Male,18/12,Catalyst,Hydro,Fontaine
+8,Shenhe,Female,10/3,Polearm,Cryo,Liyue

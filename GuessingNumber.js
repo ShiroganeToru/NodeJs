@@ -35,3 +35,8 @@ function promptUser() {
 
 console.log('Trò chơi đoán số!');
 promptUser();
+
+/**
+ * @param {int} a
+ */
+let a = 5;
